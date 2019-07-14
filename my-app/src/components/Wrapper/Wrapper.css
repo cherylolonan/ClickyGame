@@ -1,0 +1,8 @@
+.wrapper {
+    background-image: url("https://external-preview.redd.it/gNlxwJGpNuH8EaRXPHk22kW2yRQ1ow9EUf4T-SfwjWg.png?auto=webp&s=8cc6ff0524bea5fc28ea482d20822babbb59709d");
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    overflow: auto;
+  }

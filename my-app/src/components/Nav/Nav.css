@@ -1,0 +1,38 @@
+nav {
+    width: 100%;
+    font-size: 28px;
+    color: #fff;
+    margin-bottom: 50px;
+    background-image: url("https://i.ytimg.com/vi/59GESf2Rhyc/hqdefault.jpg");
+    height: auto;
+    font-family: 'Bangers', cursive;;
+  }
+  
+  a {
+    color: #fdd835;
+    background-color: rgb(136, 6, 136);
+  }
+  
+  a:hover {
+    color: #fdd835;
+    text-decoration: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    padding: 26px 0;
+    width: 25%;
+    /* text-align: center; */
+  }
+  
+  ul {
+    /* padding-left: 0px; */
+    display: flex;
+    align-items: center;
+  }
+  
+  @media only screen and (max-width: 750px) {
+    #current-score, #top-score {
+      font-size: 2rem;
+    }
+  }
