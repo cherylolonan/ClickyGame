@@ -1,4 +1,6 @@
-# Clicky Game
+# Clicky Game - Saved By The Bell Edition
+
+https://cherylolonan.github.io/ClickyGame/
 
 ## Overview
 
